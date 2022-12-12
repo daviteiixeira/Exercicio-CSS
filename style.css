@@ -1,0 +1,19 @@
+#ParagrafoCSS 
+{
+    color:brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: aliceblue;
+}
+/*
+* a propriedadde "color" serve para colocar cores em algo
+* a propriedade "font-family" serve para inserir uma variedade de fontes
+* a porpriedade "font-style" é para mudar o estilo das letras
+* a propriedade "font-size" serve para aumentar ou diminuir o tamanho
+* a propriedade "text-transform" é para transformar o texto para alguma coisa, como em letras mainsculas
+* a propriedade "text-align" é usada para arrumar a posição em relação a página
+* a propriedade "text-decoration" é utilizada para decorar o texto
+*/
